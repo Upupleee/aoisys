@@ -1,0 +1,7 @@
+DATE:2025_0724
+DATA: /home/dual3080/Workspace/ProjectTest/AOI/config/0722/aoi-data-0724.yaml
+RGB2BGR
+DATA ADD TWO FOLDER
+MODEL:YOLOV12n MODEL.
+200 EPOCH
+TRAINING SCRIPT: ../../train_050724.py

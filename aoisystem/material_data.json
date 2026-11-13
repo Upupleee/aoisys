@@ -1,0 +1,932 @@
+{
+  "p1939p4e010480a0_20250818_211419": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p1939p4e010480a0/l2.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p1939p4e010480a0/l3.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p1939p4e010480a0/l2.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p1939p4e010480a0/l3.bmp"
+    ],
+    "A面缩略图": "material/p1939p4e010480a0_20250818_211419/thumbnails/l2_thumb.jpg",
+    "B面缩略图": "material/p1939p4e010480a0_20250818_211419/thumbnails/l3_thumb.jpg",
+    "板宽(mm)": "544",
+    "板高(mm)": "479",
+    "板厚(mm)": "1.5",
+    "A面切分后": [
+      "material/p1939p4e010480a0_20250818_211419/A/l2_1.tif",
+      "material/p1939p4e010480a0_20250818_211419/A/l2_2.tif",
+      "material/p1939p4e010480a0_20250818_211419/A/l2_3.tif",
+      "material/p1939p4e010480a0_20250818_211419/A/l2_4.tif",
+      "material/p1939p4e010480a0_20250818_211419/A/l2_5.tif"
+    ],
+    "B面切分后": [
+      "material/p1939p4e010480a0_20250818_211419/B/l3_1.tif",
+      "material/p1939p4e010480a0_20250818_211419/B/l3_2.tif",
+      "material/p1939p4e010480a0_20250818_211419/B/l3_3.tif",
+      "material/p1939p4e010480a0_20250818_211419/B/l3_4.tif",
+      "material/p1939p4e010480a0_20250818_211419/B/l3_5.tif"
+    ]
+  },
+  "p058p2e018721a0_20250819_104220": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p058p2e018721a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p058p2e018721a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p058p2e018721a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p058p2e018721a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p058p2e018721a0_20250819_104220/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p058p2e018721a0_20250819_104220/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "622",
+    "板高(mm)": "508",
+    "板厚(mm)": "1.5",
+    "B面切分后": [
+      "material/p058p2e018721a0_20250819_104220/B/gbl_1.tif",
+      "material/p058p2e018721a0_20250819_104220/B/gbl_2.tif",
+      "material/p058p2e018721a0_20250819_104220/B/gbl_3.tif",
+      "material/p058p2e018721a0_20250819_104220/B/gbl_4.tif",
+      "material/p058p2e018721a0_20250819_104220/B/gbl_5.tif",
+      "material/p058p2e018721a0_20250819_104220/B/gbl_6.tif"
+    ],
+    "A面切分后": [
+      "material/p058p2e018721a0_20250819_104220/A/gtl_1.tif",
+      "material/p058p2e018721a0_20250819_104220/A/gtl_2.tif",
+      "material/p058p2e018721a0_20250819_104220/A/gtl_3.tif",
+      "material/p058p2e018721a0_20250819_104220/A/gtl_4.tif",
+      "material/p058p2e018721a0_20250819_104220/A/gtl_5.tif",
+      "material/p058p2e018721a0_20250819_104220/A/gtl_6.tif"
+    ]
+  },
+  "p058p4e012527a1_20250819_111353": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p058p4e012527a1/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p058p4e012527a1/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p058p4e012527a1/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p058p4e012527a1/gbl.bmp"
+    ],
+    "A面缩略图": "material/p058p4e012527a1_20250819_111353/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p058p4e012527a1_20250819_111353/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "616",
+    "板高(mm)": "463",
+    "板厚(mm)": "1.5",
+    "B面切分后": [
+      "material/p058p4e012527a1_20250819_111353/B/gbl_1.tif",
+      "material/p058p4e012527a1_20250819_111353/B/gbl_2.tif",
+      "material/p058p4e012527a1_20250819_111353/B/gbl_3.tif",
+      "material/p058p4e012527a1_20250819_111353/B/gbl_4.tif",
+      "material/p058p4e012527a1_20250819_111353/B/gbl_5.tif",
+      "material/p058p4e012527a1_20250819_111353/B/gbl_6.tif"
+    ],
+    "A面切分后": [
+      "material/p058p4e012527a1_20250819_111353/A/gtl_1.tif",
+      "material/p058p4e012527a1_20250819_111353/A/gtl_2.tif",
+      "material/p058p4e012527a1_20250819_111353/A/gtl_3.tif",
+      "material/p058p4e012527a1_20250819_111353/A/gtl_4.tif",
+      "material/p058p4e012527a1_20250819_111353/A/gtl_5.tif",
+      "material/p058p4e012527a1_20250819_111353/A/gtl_6.tif"
+    ]
+  },
+  "p506p6w011986a0_20250819_153517": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p6w011986a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p6w011986a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p6w011986a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p6w011986a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p506p6w011986a0_20250819_153517/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p506p6w011986a0_20250819_153517/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "600",
+    "板高(mm)": "465",
+    "板厚(mm)": "1.5",
+    "B面切分后": [
+      "material/p506p6w011986a0_20250819_153517/B/gbl_1.tif",
+      "material/p506p6w011986a0_20250819_153517/B/gbl_2.tif",
+      "material/p506p6w011986a0_20250819_153517/B/gbl_3.tif",
+      "material/p506p6w011986a0_20250819_153517/B/gbl_4.tif",
+      "material/p506p6w011986a0_20250819_153517/B/gbl_5.tif"
+    ],
+    "A面切分后": [
+      "material/p506p6w011986a0_20250819_153517/A/gtl_1.tif",
+      "material/p506p6w011986a0_20250819_153517/A/gtl_2.tif",
+      "material/p506p6w011986a0_20250819_153517/A/gtl_3.tif",
+      "material/p506p6w011986a0_20250819_153517/A/gtl_4.tif",
+      "material/p506p6w011986a0_20250819_153517/A/gtl_5.tif"
+    ]
+  },
+  "p506p6w4193a0_20250819_171929": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p6w4193a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p6w4193a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p6w4193a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p6w4193a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p506p6w4193a0_20250819_171929/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p506p6w4193a0_20250819_171929/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "550",
+    "板高(mm)": "460",
+    "板厚(mm)": "1.5",
+    "B面切分后": [
+      "material/p506p6w4193a0_20250819_171929/B/gbl_1.tif",
+      "material/p506p6w4193a0_20250819_171929/B/gbl_2.tif",
+      "material/p506p6w4193a0_20250819_171929/B/gbl_3.tif",
+      "material/p506p6w4193a0_20250819_171929/B/gbl_4.tif",
+      "material/p506p6w4193a0_20250819_171929/B/gbl_5.tif"
+    ]
+  },
+  "p2580p4e013568a1_20250819_174629": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2580p4e013568a1/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2580p4e013568a1/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2580p4e013568a1/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2580p4e013568a1/gbl.bmp"
+    ],
+    "A面缩略图": "material/p2580p4e013568a1_20250819_174629/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p2580p4e013568a1_20250819_174629/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "457",
+    "板高(mm)": "386",
+    "板厚(mm)": "1.5",
+    "A面切分后": [
+      "material/p2580p4e013568a1_20250819_174629/A/gtl_1.tif",
+      "material/p2580p4e013568a1_20250819_174629/A/gtl_2.tif",
+      "material/p2580p4e013568a1_20250819_174629/A/gtl_3.tif",
+      "material/p2580p4e013568a1_20250819_174629/A/gtl_4.tif"
+    ],
+    "B面切分后": [
+      "material/p2580p4e013568a1_20250819_174629/B/gbl_1.tif",
+      "material/p2580p4e013568a1_20250819_174629/B/gbl_2.tif",
+      "material/p2580p4e013568a1_20250819_174629/B/gbl_3.tif",
+      "material/p2580p4e013568a1_20250819_174629/B/gbl_4.tif"
+    ]
+  },
+  "p506p4e018727a0_20250819_201455": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p4e018727a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p4e018727a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p4e018727a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p4e018727a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p506p4e018727a0_20250819_201455/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p506p4e018727a0_20250819_201455/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "620",
+    "板高(mm)": "440",
+    "板厚(mm)": "1.5",
+    "A面切分后": [
+      "material/p506p4e018727a0_20250819_201455/A/gtl_1.tif",
+      "material/p506p4e018727a0_20250819_201455/A/gtl_2.tif",
+      "material/p506p4e018727a0_20250819_201455/A/gtl_3.tif",
+      "material/p506p4e018727a0_20250819_201455/A/gtl_4.tif",
+      "material/p506p4e018727a0_20250819_201455/A/gtl_5.tif",
+      "material/p506p4e018727a0_20250819_201455/A/gtl_6.tif"
+    ]
+  },
+  "p2018p6e018634a0_20250820_104123": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2018p6e018634a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2018p6e018634a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2018p6e018634a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2018p6e018634a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p2018p6e018634a0_20250820_104123/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p2018p6e018634a0_20250820_104123/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "470",
+    "板高(mm)": "415",
+    "板厚(mm)": "1.5",
+    "A面切分后": [
+      "material/p2018p6e018634a0_20250820_104123/A/gtl_1.tif",
+      "material/p2018p6e018634a0_20250820_104123/A/gtl_2.tif",
+      "material/p2018p6e018634a0_20250820_104123/A/gtl_3.tif",
+      "material/p2018p6e018634a0_20250820_104123/A/gtl_4.tif"
+    ],
+    "B面切分后": [
+      "material/p2018p6e018634a0_20250820_104123/B/gbl_1.tif",
+      "material/p2018p6e018634a0_20250820_104123/B/gbl_2.tif",
+      "material/p2018p6e018634a0_20250820_104123/B/gbl_3.tif",
+      "material/p2018p6e018634a0_20250820_104123/B/gbl_4.tif"
+    ]
+  },
+  "p961p10e018765a0h_20250820_144217": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p961p10e018765a0h/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p961p10e018765a0h/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p961p10e018765a0h/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p961p10e018765a0h/gbl.bmp"
+    ],
+    "A面缩略图": "material/p961p10e018765a0h_20250820_144217/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p961p10e018765a0h_20250820_144217/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "520",
+    "板高(mm)": "420",
+    "板厚(mm)": "1.5"
+  },
+  "p961p10e018765a0h_20250820_150128": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p961p10e018765a0h/l7.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p961p10e018765a0h/l8.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p961p10e018765a0h/l7.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p961p10e018765a0h/l8.bmp"
+    ],
+    "A面缩略图": "material/p961p10e018765a0h_20250820_150128/thumbnails/l7_thumb.jpg",
+    "B面缩略图": "material/p961p10e018765a0h_20250820_150128/thumbnails/l8_thumb.jpg",
+    "板宽(mm)": "520",
+    "板高(mm)": "420",
+    "板厚(mm)": "1.5",
+    "A面切分后": [
+      "material/p961p10e018765a0h_20250820_150128/A/l7_1.tif",
+      "material/p961p10e018765a0h_20250820_150128/A/l7_2.tif",
+      "material/p961p10e018765a0h_20250820_150128/A/l7_3.tif",
+      "material/p961p10e018765a0h_20250820_150128/A/l7_4.tif",
+      "material/p961p10e018765a0h_20250820_150128/A/l7_5.tif"
+    ],
+    "B面切分后": [
+      "material/p961p10e018765a0h_20250820_150128/B/l8_1.tif",
+      "material/p961p10e018765a0h_20250820_150128/B/l8_2.tif",
+      "material/p961p10e018765a0h_20250820_150128/B/l8_3.tif",
+      "material/p961p10e018765a0h_20250820_150128/B/l8_4.tif",
+      "material/p961p10e018765a0h_20250820_150128/B/l8_5.tif"
+    ]
+  },
+  "p506p6e014358a0_20250820_163309": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p6e014358a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p6e014358a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p6e014358a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p6e014358a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p506p6e014358a0_20250820_163309/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p506p6e014358a0_20250820_163309/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "622",
+    "板高(mm)": "470",
+    "板厚(mm)": "1.5",
+    "A面切分后": [
+      "material/p506p6e014358a0_20250820_163309/A/gtl_1.tif",
+      "material/p506p6e014358a0_20250820_163309/A/gtl_2.tif",
+      "material/p506p6e014358a0_20250820_163309/A/gtl_3.tif",
+      "material/p506p6e014358a0_20250820_163309/A/gtl_4.tif",
+      "material/p506p6e014358a0_20250820_163309/A/gtl_5.tif",
+      "material/p506p6e014358a0_20250820_163309/A/gtl_6.tif"
+    ]
+  },
+  "p3029p4e018751a0_20250821_111306": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p3029p4e018751a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p3029p4e018751a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p3029p4e018751a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p3029p4e018751a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p3029p4e018751a0_20250821_111306/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p3029p4e018751a0_20250821_111306/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "620",
+    "板高(mm)": "410",
+    "板厚(mm)": "1.5",
+    "A面切分后": [
+      "material/p3029p4e018751a0_20250821_111306/A/gtl_1.tif",
+      "material/p3029p4e018751a0_20250821_111306/A/gtl_2.tif",
+      "material/p3029p4e018751a0_20250821_111306/A/gtl_3.tif",
+      "material/p3029p4e018751a0_20250821_111306/A/gtl_4.tif",
+      "material/p3029p4e018751a0_20250821_111306/A/gtl_5.tif",
+      "material/p3029p4e018751a0_20250821_111306/A/gtl_6.tif"
+    ],
+    "B面切分后": [
+      "material/p3029p4e018751a0_20250821_111306/B/gbl_1.tif",
+      "material/p3029p4e018751a0_20250821_111306/B/gbl_2.tif",
+      "material/p3029p4e018751a0_20250821_111306/B/gbl_3.tif",
+      "material/p3029p4e018751a0_20250821_111306/B/gbl_4.tif",
+      "material/p3029p4e018751a0_20250821_111306/B/gbl_5.tif",
+      "material/p3029p4e018751a0_20250821_111306/B/gbl_6.tif"
+    ]
+  },
+  "p999p4w016249a0_20250822_111934": {
+    "A面": "/home/aoi/pretest/images/new_data/0821/0821_gerber_origin/p999p4w016249a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/images/new_data/0821/0821_gerber_origin/p999p4w016249a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/images/new_data/0821/0821_gerber_origin/p999p4w016249a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/images/new_data/0821/0821_gerber_origin/p999p4w016249a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p999p4w016249a0_20250822_111934/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p999p4w016249a0_20250822_111934/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "352",
+    "板高(mm)": "345",
+    "板厚(mm)": "1.5",
+    "A面切分后": [
+      "material/p999p4w016249a0_20250822_111934/A/gtl_1.tif",
+      "material/p999p4w016249a0_20250822_111934/A/gtl_2.tif",
+      "material/p999p4w016249a0_20250822_111934/A/gtl_3.tif"
+    ],
+    "B面切分后": [
+      "material/p999p4w016249a0_20250822_111934/B/gbl_1.tif",
+      "material/p999p4w016249a0_20250822_111934/B/gbl_2.tif",
+      "material/p999p4w016249a0_20250822_111934/B/gbl_3.tif"
+    ]
+  },
+  "p059p4e016202a0_20250823_140420": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p059p4e016202a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p059p4e016202a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p059p4e016202a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p059p4e016202a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p059p4e016202a0_20250823_140420/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p059p4e016202a0_20250823_140420/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "562",
+    "板高(mm)": "513",
+    "板厚(mm)": "1.5",
+    "B面切分后": [
+      "material/p059p4e016202a0_20250823_140420/B/gbl_1.tif",
+      "material/p059p4e016202a0_20250823_140420/B/gbl_2.tif",
+      "material/p059p4e016202a0_20250823_140420/B/gbl_3.tif",
+      "material/p059p4e016202a0_20250823_140420/B/gbl_4.tif",
+      "material/p059p4e016202a0_20250823_140420/B/gbl_5.tif"
+    ],
+    "A面切分后": [
+      "material/p059p4e016202a0_20250823_140420/A/gtl_1.tif",
+      "material/p059p4e016202a0_20250823_140420/A/gtl_2.tif",
+      "material/p059p4e016202a0_20250823_140420/A/gtl_3.tif",
+      "material/p059p4e016202a0_20250823_140420/A/gtl_4.tif",
+      "material/p059p4e016202a0_20250823_140420/A/gtl_5.tif"
+    ]
+  },
+  "p2336p8w018713a0_20250825_102323": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2336p8w018713a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2336p8w018713a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2336p8w018713a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2336p8w018713a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p2336p8w018713a0_20250825_102323/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p2336p8w018713a0_20250825_102323/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "560",
+    "板高(mm)": "496",
+    "板厚(mm)": "1.6",
+    "B面切分后": [
+      "material/p2336p8w018713a0_20250825_102323/B/gbl_1.tif",
+      "material/p2336p8w018713a0_20250825_102323/B/gbl_2.tif",
+      "material/p2336p8w018713a0_20250825_102323/B/gbl_3.tif",
+      "material/p2336p8w018713a0_20250825_102323/B/gbl_4.tif",
+      "material/p2336p8w018713a0_20250825_102323/B/gbl_5.tif"
+    ],
+    "A面切分后": [
+      "material/p2336p8w018713a0_20250825_102323/A/gtl_1.tif",
+      "material/p2336p8w018713a0_20250825_102323/A/gtl_2.tif",
+      "material/p2336p8w018713a0_20250825_102323/A/gtl_3.tif",
+      "material/p2336p8w018713a0_20250825_102323/A/gtl_4.tif",
+      "material/p2336p8w018713a0_20250825_102323/A/gtl_5.tif"
+    ]
+  },
+  "p533p4w018562a0_20250825_114949": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p533p4w018562a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p533p4w018562a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p533p4w018562a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p533p4w018562a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p533p4w018562a0_20250825_114949/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p533p4w018562a0_20250825_114949/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "544",
+    "板高(mm)": "377",
+    "板厚(mm)": "1.6",
+    "A面切分后": [
+      "material/p533p4w018562a0_20250825_114949/A/gtl_1.tif",
+      "material/p533p4w018562a0_20250825_114949/A/gtl_2.tif",
+      "material/p533p4w018562a0_20250825_114949/A/gtl_3.tif",
+      "material/p533p4w018562a0_20250825_114949/A/gtl_4.tif",
+      "material/p533p4w018562a0_20250825_114949/A/gtl_5.tif"
+    ]
+  },
+  "p503p8e018486a0_20250825_171705": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/p503p8e018486a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/p503p8e018486a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/p503p8e018486a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/p503p8e018486a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p503p8e018486a0_20250825_171705/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p503p8e018486a0_20250825_171705/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "606",
+    "板高(mm)": "300",
+    "板厚(mm)": "1.5",
+    "B面切分后": [
+      "material/p503p8e018486a0_20250825_171705/B/gbl_1.tif",
+      "material/p503p8e018486a0_20250825_171705/B/gbl_2.tif",
+      "material/p503p8e018486a0_20250825_171705/B/gbl_3.tif",
+      "material/p503p8e018486a0_20250825_171705/B/gbl_4.tif",
+      "material/p503p8e018486a0_20250825_171705/B/gbl_5.tif",
+      "material/p503p8e018486a0_20250825_171705/B/gbl_6.tif"
+    ]
+  },
+  "p961p10e018765a0h_20250825_175223": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p961p10e018765a0h/l2.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p961p10e018765a0h/l9.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p961p10e018765a0h/l2.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p961p10e018765a0h/l9.bmp"
+    ],
+    "A面缩略图": "material/p961p10e018765a0h_20250825_175223/thumbnails/l2_thumb.jpg",
+    "B面缩略图": "material/p961p10e018765a0h_20250825_175223/thumbnails/l9_thumb.jpg",
+    "板宽(mm)": "511",
+    "板高(mm)": "415",
+    "板厚(mm)": "1.5"
+  },
+  "P999P4W016249A0_20250826_162215": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gbl.bmp"
+    ],
+    "A面缩略图": "material/P999P4W016249A0_20250826_162215/thumbnails/P999P4W016249A0_gtl_thumb.jpg",
+    "B面缩略图": "material/P999P4W016249A0_20250826_162215/thumbnails/P999P4W016249A0_gbl_thumb.jpg",
+    "板宽(mm)": "552",
+    "板高(mm)": "468",
+    "板厚(mm)": "1.6"
+  },
+  "P999P4W016249A0_20250826_170820": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gbl.bmp"
+    ],
+    "A面缩略图": "material/P999P4W016249A0_20250826_170820/thumbnails/P999P4W016249A0_gtl_thumb.jpg",
+    "B面缩略图": "material/P999P4W016249A0_20250826_170820/thumbnails/P999P4W016249A0_gbl_thumb.jpg",
+    "板宽(mm)": "350",
+    "板高(mm)": "340",
+    "板厚(mm)": "1.6",
+    "B面切分后": [
+      "material/P999P4W016249A0_20250826_170820/B/P999P4W016249A0_gbl_1.tif",
+      "material/P999P4W016249A0_20250826_170820/B/P999P4W016249A0_gbl_2.tif",
+      "material/P999P4W016249A0_20250826_170820/B/P999P4W016249A0_gbl_3.tif"
+    ]
+  },
+  "P999P4W016249A0_20250827_102324": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gbl.bmp"
+    ],
+    "A面缩略图": "material/P999P4W016249A0_20250827_102324/thumbnails/P999P4W016249A0_gtl_thumb.jpg",
+    "B面缩略图": "material/P999P4W016249A0_20250827_102324/thumbnails/P999P4W016249A0_gbl_thumb.jpg",
+    "板宽(mm)": "350",
+    "板高(mm)": "350",
+    "板厚(mm)": "1.6",
+    "条带宽": "material/P999P4W016249A0_20250827_102324/A/P999P4W016249A0_gtl_2.tif",
+    "资料高": "material/P999P4W016249A0_20250827_102324/A/P999P4W016249A0_gtl_3.tif",
+    "靶点数据": [
+      [
+        768,
+        248
+      ],
+      [
+        40816,
+        39818
+      ]
+    ],
+    "B面切分后": [
+      "material/P999P4W016249A0_20250827_102324/B/P999P4W016249A0_gbl_1.tif",
+      "material/P999P4W016249A0_20250827_102324/B/P999P4W016249A0_gbl_2.tif",
+      "material/P999P4W016249A0_20250827_102324/B/P999P4W016249A0_gbl_3.tif"
+    ]
+  },
+  "p533p4w018562a0_20250827_111408": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/p533p4w018562a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/p533p4w018562a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/p533p4w018562a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/p533p4w018562a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p533p4w018562a0_20250827_111408/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p533p4w018562a0_20250827_111408/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "520",
+    "板高(mm)": "377",
+    "板厚(mm)": "1.6",
+    "条带宽": [
+      15738,
+      15354,
+      15354,
+      15354,
+      7384
+    ],
+    "资料高": 47507,
+    "靶点数据": [
+      [
+        1056,
+        280
+      ],
+      [
+        68496,
+        47226
+      ]
+    ],
+    "B面切分后": [
+      "material/p533p4w018562a0_20250827_111408/B/gbl_1.tif",
+      "material/p533p4w018562a0_20250827_111408/B/gbl_2.tif",
+      "material/p533p4w018562a0_20250827_111408/B/gbl_3.tif",
+      "material/p533p4w018562a0_20250827_111408/B/gbl_4.tif",
+      "material/p533p4w018562a0_20250827_111408/B/gbl_5.tif"
+    ],
+    "A面切分后": [
+      "material/p533p4w018562a0_20250827_111408/A/gtl_1.tif",
+      "material/p533p4w018562a0_20250827_111408/A/gtl_2.tif",
+      "material/p533p4w018562a0_20250827_111408/A/gtl_3.tif",
+      "material/p533p4w018562a0_20250827_111408/A/gtl_4.tif",
+      "material/p533p4w018562a0_20250827_111408/A/gtl_5.tif"
+    ]
+  },
+  "P999P4W016249A0_20250827_111519": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/P999P4W016249A0/P999P4W016249A0_gbl.bmp"
+    ],
+    "A面缩略图": "material/P999P4W016249A0_20250827_111519/thumbnails/P999P4W016249A0_gtl_thumb.jpg",
+    "B面缩略图": "material/P999P4W016249A0_20250827_111519/thumbnails/P999P4W016249A0_gbl_thumb.jpg",
+    "板宽(mm)": "350",
+    "板高(mm)": "350",
+    "板厚(mm)": "1.6",
+    "条带宽": [
+      15738,
+      15354,
+      10156
+    ],
+    "资料高": 40091,
+    "靶点数据": [
+      [
+        744,
+        248
+      ],
+      [
+        40784,
+        39810
+      ]
+    ],
+    "A面切分后": [
+      "material/P999P4W016249A0_20250827_111519/A/P999P4W016249A0_gtl_1.tif",
+      "material/P999P4W016249A0_20250827_111519/A/P999P4W016249A0_gtl_2.tif",
+      "material/P999P4W016249A0_20250827_111519/A/P999P4W016249A0_gtl_3.tif"
+    ]
+  },
+  "p533p4w018562a0_20250827_163913": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p533p4w018562a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p533p4w018562a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p533p4w018562a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p533p4w018562a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p533p4w018562a0_20250827_163913/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p533p4w018562a0_20250827_163913/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "503",
+    "板高(mm)": "412",
+    "板厚(mm)": "1.5",
+    "条带宽": [
+      15738,
+      15354,
+      15354,
+      15354,
+      7384
+    ],
+    "资料高": 47507,
+    "靶点数据": [
+      [
+        936,
+        968
+      ],
+      [
+        68472,
+        47170
+      ]
+    ]
+  },
+  "p886p4e018485a0h_20250827_170407": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p886p4e018485a0h/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p886p4e018485a0h/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p886p4e018485a0h/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p886p4e018485a0h/gbl.bmp"
+    ],
+    "A面缩略图": "material/p886p4e018485a0h_20250827_170407/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p886p4e018485a0h_20250827_170407/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "490",
+    "板高(mm)": "410",
+    "板厚(mm)": "1.5",
+    "条带宽": null,
+    "资料高": null,
+    "靶点数据": [
+      [
+        1056,
+        920
+      ],
+      [
+        61488,
+        52104
+      ]
+    ],
+    "B面切分后": [
+      "material/p886p4e018485a0h_20250827_170407/B/gbl_1.tif",
+      "material/p886p4e018485a0h_20250827_170407/B/gbl_2.tif",
+      "material/p886p4e018485a0h_20250827_170407/B/gbl_3.tif",
+      "material/p886p4e018485a0h_20250827_170407/B/gbl_4.tif",
+      "material/p886p4e018485a0h_20250827_170407/B/gbl_5.tif"
+    ]
+  },
+  "p059p4e018430a0_20250827_211254": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p059p4e018430a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p059p4e018430a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p059p4e018430a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p059p4e018430a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p059p4e018430a0_20250827_211254/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p059p4e018430a0_20250827_211254/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "620",
+    "板高(mm)": "420",
+    "板厚(mm)": "1.5",
+    "条带宽": null,
+    "资料高": null,
+    "靶点数据": [
+      [
+        1040,
+        224
+      ],
+      [
+        78368,
+        58630
+      ]
+    ],
+    "A面切分后": [
+      "material/p059p4e018430a0_20250827_211254/A/gtl_1.tif",
+      "material/p059p4e018430a0_20250827_211254/A/gtl_2.tif",
+      "material/p059p4e018430a0_20250827_211254/A/gtl_3.tif",
+      "material/p059p4e018430a0_20250827_211254/A/gtl_4.tif",
+      "material/p059p4e018430a0_20250827_211254/A/gtl_5.tif",
+      "material/p059p4e018430a0_20250827_211254/A/gtl_6.tif"
+    ],
+    "B面切分后": [
+      "material/p059p4e018430a0_20250827_211254/B/gbl_1.tif",
+      "material/p059p4e018430a0_20250827_211254/B/gbl_2.tif",
+      "material/p059p4e018430a0_20250827_211254/B/gbl_3.tif",
+      "material/p059p4e018430a0_20250827_211254/B/gbl_4.tif",
+      "material/p059p4e018430a0_20250827_211254/B/gbl_5.tif",
+      "material/p059p4e018430a0_20250827_211254/B/gbl_6.tif"
+    ]
+  },
+  "p506p4e017887a0s_20250828_104717": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p4e017887a0s/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p4e017887a0s/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p4e017887a0s/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p4e017887a0s/gbl.bmp"
+    ],
+    "A面缩略图": "material/p506p4e017887a0s_20250828_104717/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p506p4e017887a0s_20250828_104717/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "607",
+    "板高(mm)": "535",
+    "板厚(mm)": "1.5",
+    "条带宽": null,
+    "资料高": null,
+    "靶点数据": [
+      [
+        1392,
+        1296
+      ],
+      [
+        76136,
+        67824
+      ]
+    ],
+    "B面切分后": [
+      "material/p506p4e017887a0s_20250828_104717/B/gbl_1.tif",
+      "material/p506p4e017887a0s_20250828_104717/B/gbl_2.tif",
+      "material/p506p4e017887a0s_20250828_104717/B/gbl_3.tif",
+      "material/p506p4e017887a0s_20250828_104717/B/gbl_4.tif",
+      "material/p506p4e017887a0s_20250828_104717/B/gbl_5.tif",
+      "material/p506p4e017887a0s_20250828_104717/B/gbl_6.tif"
+    ]
+  },
+  "p506p4e017887a0s_20250828_135445": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p4e017887a0s/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p4e017887a0s/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p4e017887a0s/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p506p4e017887a0s/gbl.bmp"
+    ],
+    "A面缩略图": "material/p506p4e017887a0s_20250828_135445/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p506p4e017887a0s_20250828_135445/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "607",
+    "板高(mm)": "535",
+    "板厚(mm)": "1.5",
+    "条带宽": null,
+    "资料高": null,
+    "靶点数据": [
+      [
+        1392,
+        1256
+      ],
+      [
+        76248,
+        64992
+      ]
+    ],
+    "B面切分后": [
+      "material/p506p4e017887a0s_20250828_135445/B/gbl_1.tif",
+      "material/p506p4e017887a0s_20250828_135445/B/gbl_2.tif",
+      "material/p506p4e017887a0s_20250828_135445/B/gbl_3.tif",
+      "material/p506p4e017887a0s_20250828_135445/B/gbl_4.tif",
+      "material/p506p4e017887a0s_20250828_135445/B/gbl_5.tif",
+      "material/p506p4e017887a0s_20250828_135445/B/gbl_6.tif"
+    ]
+  },
+  "p003p4w018346a0h_20250828_142525": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/p003p4w018346a0h/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/p003p4w018346a0h/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/p003p4w018346a0h/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/p003p4w018346a0h/gbl.bmp"
+    ],
+    "A面缩略图": "material/p003p4w018346a0h_20250828_142525/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p003p4w018346a0h_20250828_142525/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "601",
+    "板高(mm)": "516",
+    "板厚(mm)": "1.6",
+    "条带宽": [
+      15738,
+      15354,
+      15354,
+      15354,
+      4312
+    ],
+    "资料高": 45588,
+    "靶点数据": [
+      [
+        1416,
+        272
+      ],
+      [
+        65160,
+        45347
+      ]
+    ],
+    "A面切分后": [
+      "material/p003p4w018346a0h_20250828_142525/A/gtl_1.tif",
+      "material/p003p4w018346a0h_20250828_142525/A/gtl_2.tif",
+      "material/p003p4w018346a0h_20250828_142525/A/gtl_3.tif",
+      "material/p003p4w018346a0h_20250828_142525/A/gtl_4.tif",
+      "material/p003p4w018346a0h_20250828_142525/A/gtl_5.tif"
+    ]
+  },
+  "p003p4w018346a0h_20250828_144518": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/p003p4w018346a0h/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/p003p4w018346a0h/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/p003p4w018346a0h/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/p003p4w018346a0h/gbl.bmp"
+    ],
+    "A面缩略图": "material/p003p4w018346a0h_20250828_144518/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p003p4w018346a0h_20250828_144518/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "577",
+    "板高(mm)": "410",
+    "板厚(mm)": "1.6",
+    "条带宽": [
+      15738,
+      15354,
+      15354,
+      15354,
+      4312
+    ],
+    "资料高": 45588,
+    "靶点数据": [
+      [
+        1248,
+        928
+      ],
+      [
+        65160,
+        45307
+      ]
+    ]
+  },
+  "p003p4w018346a0h_20250828_153505": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/p003p4w018346a0h/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/p003p4w018346a0h/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/p003p4w018346a0h/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/p003p4w018346a0h/gbl.bmp"
+    ],
+    "A面缩略图": "material/p003p4w018346a0h_20250828_153505/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p003p4w018346a0h_20250828_153505/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "575",
+    "板高(mm)": "459",
+    "板厚(mm)": "1.6",
+    "条带宽": [
+      15738,
+      15354,
+      15354,
+      15354,
+      4312
+    ],
+    "资料高": 45588,
+    "靶点数据": [
+      [
+        1248,
+        952
+      ],
+      [
+        65200,
+        45283
+      ]
+    ],
+    "A面切分后": [
+      "material/p003p4w018346a0h_20250828_153505/A/gtl_1.tif",
+      "material/p003p4w018346a0h_20250828_153505/A/gtl_2.tif",
+      "material/p003p4w018346a0h_20250828_153505/A/gtl_3.tif",
+      "material/p003p4w018346a0h_20250828_153505/A/gtl_4.tif",
+      "material/p003p4w018346a0h_20250828_153505/A/gtl_5.tif"
+    ]
+  },
+  "p2336p8w018713a0_20250828_164414": {
+    "A面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2336p8w018713a0/gtl.bmp",
+    "B面": "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2336p8w018713a0/gbl.bmp",
+    "A面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2336p8w018713a0/gtl.bmp"
+    ],
+    "B面全部": [
+      "/home/aoi/pretest/AOI_V1/hsx_experiment/Ver_gerber/p2336p8w018713a0/gbl.bmp"
+    ],
+    "A面缩略图": "material/p2336p8w018713a0_20250828_164414/thumbnails/gtl_thumb.jpg",
+    "B面缩略图": "material/p2336p8w018713a0_20250828_164414/thumbnails/gbl_thumb.jpg",
+    "板宽(mm)": "560",
+    "板高(mm)": "496",
+    "板厚(mm)": "1.6",
+    "条带宽": null,
+    "资料高": null,
+    "靶点数据": [
+      [
+        1480,
+        296
+      ],
+      [
+        70200,
+        62461
+      ]
+    ]
+  }
+}

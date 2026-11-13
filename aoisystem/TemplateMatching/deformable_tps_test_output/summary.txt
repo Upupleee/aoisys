@@ -1,0 +1,9 @@
+
+===== 汇总 =====
+稠密位移点(过滤后): 2782
+刚性 H 残差(全分辨率px): median=1.03 P95=2.14
+TPS 后残差:              median=0.89 P95=1.80
+留出 RMSE: 刚性=1.28px  TPS(λ=0.1)=1.15px
+差异能量 MSE(可视化尺度): 刚性=10029.8 -> TPS=9987.4 (降幅 0.4%)
+位移场幅度(全分辨率px): median=1.4 P95=4.6
+输出目录: d:\AOI\aoisystem\TemplateMatching\deformable_tps_test_output
