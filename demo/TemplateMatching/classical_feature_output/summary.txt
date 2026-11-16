@@ -1,0 +1,7 @@
+传统特征点 vs ALIKED+LightGlue @0.5x（同口径：原始匹配 / NCC精化后）
+
+方法                      匹配     内点率  raw_med    ref内点率  ref_med  ref_RMS    定位med     耗时s
+SIFT                   426    5.4%     0.23      5.3%     0.31     0.39     0.45    6.57
+ORB                   1583    7.3%     0.36      7.1%     0.59     0.80     1.00    2.25
+ALIKED+LG(raw)        4599   80.1%     2.36                                         8.00
+ALIKED+LG(refined)    4050                      94.4%     0.74     1.23    2.14*    9.00

@@ -1,0 +1,5 @@
+ALIKED+LightGlue @ 0.5x, kpts=8000, cpu
+tpl kpts 5494, smp kpts 5805, LG matches 4599
+raw:   inliers 3683 (80.1%), resid median/rms/p95 = 2.36/2.92/5.21 px@0.5x
+refined: inliers 4050 (94.4%), resid median/rms/p95 = 0.74/1.23/2.54 px@0.5x
+times: extract 2.8s, LG match 5.15s, NCC refine 1.0s

@@ -1,0 +1,86 @@
+{
+  "p1": {
+    "pair": 1,
+    "work_scale": 8,
+    "coarse_prior": {
+      "dtheta": 0.0809,
+      "scale": 1.07984,
+      "t_lowres": [
+        0.0,
+        0.0
+      ],
+      "zncc": 0.739,
+      "resp": 0.13
+    },
+    "prior_accept": {
+      "inlier_ratio": 0.04423076923076923
+    },
+    "ecc_refine": {
+      "inlier_ratio": 0.046153846153846156
+    },
+    "error": "ALIKED 兜底失败: OpenCV(5.0.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\geometry\\src\\usac\\ransac_solvers.cpp:1131: error: (-2:Unspecified error) in function 'auto __cdecl cv::usac::mergePoints::<lambda_7c0f9e4fb7b665144723221a376f942d>::operator ()(class cv::Mat &,int) const'\n> Invalid dimension of point (expected: 'points.cols >= pt_dim'), where\n>     'points.cols' is 0\n> must be greater than or equal to\n>     'pt_dim' is 2\n"
+  },
+  "p2": {
+    "pair": 2,
+    "work_scale": 8,
+    "coarse_prior": {
+      "dtheta": -0.0268,
+      "scale": 1.08295,
+      "t_lowres": [
+        0.0,
+        0.0
+      ],
+      "zncc": 0.4755,
+      "resp": 0.155
+    },
+    "prior_accept": {
+      "inlier_ratio": 0.0
+    },
+    "ecc_refine": {
+      "inlier_ratio": 0.005357142857142857
+    },
+    "error": "ALIKED 兜底失败: OpenCV(5.0.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\geometry\\src\\usac\\ransac_solvers.cpp:1131: error: (-2:Unspecified error) in function 'auto __cdecl cv::usac::mergePoints::<lambda_7c0f9e4fb7b665144723221a376f942d>::operator ()(class cv::Mat &,int) const'\n> Invalid dimension of point (expected: 'points.cols >= pt_dim'), where\n>     'points.cols' is 0\n> must be greater than or equal to\n>     'pt_dim' is 2\n"
+  },
+  "p3": {
+    "pair": 3,
+    "work_scale": 8,
+    "coarse_prior": {
+      "dtheta": 0.2244,
+      "scale": 1.0809,
+      "t_lowres": [
+        37.2,
+        519.46
+      ],
+      "zncc": 0.5168,
+      "resp": 0.121
+    },
+    "prior_accept": {
+      "inlier_ratio": 0.09285714285714286
+    },
+    "ecc_refine": {
+      "inlier_ratio": 0.16071428571428573
+    },
+    "error": "ALIKED 兜底失败: OpenCV(5.0.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\geometry\\src\\usac\\ransac_solvers.cpp:1131: error: (-2:Unspecified error) in function 'auto __cdecl cv::usac::mergePoints::<lambda_7c0f9e4fb7b665144723221a376f942d>::operator ()(class cv::Mat &,int) const'\n> Invalid dimension of point (expected: 'points.cols >= pt_dim'), where\n>     'points.cols' is 0\n> must be greater than or equal to\n>     'pt_dim' is 2\n"
+  },
+  "p4": {
+    "pair": 4,
+    "work_scale": 8,
+    "coarse_prior": {
+      "dtheta": 0.0844,
+      "scale": 1.00092,
+      "t_lowres": [
+        34.27,
+        479.38
+      ],
+      "zncc": -1.0,
+      "resp": 0.072
+    },
+    "prior_accept": {
+      "inlier_ratio": 0.004166666666666667
+    },
+    "ecc_refine": {
+      "inlier_ratio": 0.0125
+    },
+    "error": "ALIKED 兜底失败: OpenCV(5.0.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\geometry\\src\\usac\\ransac_solvers.cpp:1131: error: (-2:Unspecified error) in function 'auto __cdecl cv::usac::mergePoints::<lambda_7c0f9e4fb7b665144723221a376f942d>::operator ()(class cv::Mat &,int) const'\n> Invalid dimension of point (expected: 'points.cols >= pt_dim'), where\n>     'points.cols' is 0\n> must be greater than or equal to\n>     'pt_dim' is 2\n"
+  }
+}

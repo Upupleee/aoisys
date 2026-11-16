@@ -1,0 +1,6 @@
+形状初值 + NCC + TPS vs 纯 NCC 管线 @0.5x
+
+A 纯NCC : 点431 残差RMS 1.10px TPS holdout 35.76(H 35.79) 耗时 4.4s
+B 形状初值: 点431 残差RMS 1.08px TPS holdout 35.54(H 35.58) 耗时 87.3s (形状 85.2 + 稠密 2.1)
+初值偏差 vs 基准H: med 13.46px RMS 14.92px
+最终 H 偏差 A vs B: med 0.025px RMS 0.032px P95 0.056px

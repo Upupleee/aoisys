@@ -1,0 +1,4 @@
+SuperPoint+LightGlue @0.5x kpts=8000
+kpts 4758/4673, LG matches 3665, 提取 3.4s 匹配 5.46s
+raw: 内点 1158 (31.6%) med/rms/p95 4.10/4.08/5.80
+refined: 内点 2193 (80.8%) med/rms/p95 1.35/1.93/4.05

@@ -1,0 +1,24 @@
+{
+  "p1": {
+    "pair": 1,
+    "work_scale": 8,
+    "invert_tpl": true,
+    "coarse_prior": {
+      "dtheta": 0.0697,
+      "scale": 1.07927,
+      "t_lowres": [
+        0.0,
+        0.0
+      ],
+      "zncc": 0.2465,
+      "resp": 0.129
+    },
+    "prior_accept": {
+      "inlier_ratio": 0.0
+    },
+    "ecc_refine": {
+      "inlier_ratio": 0.046153846153846156
+    },
+    "error": "ALIKED 兜底失败: OpenCV(5.0.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\geometry\\src\\usac\\ransac_solvers.cpp:1131: error: (-2:Unspecified error) in function 'auto __cdecl cv::usac::mergePoints::<lambda_7c0f9e4fb7b665144723221a376f942d>::operator ()(class cv::Mat &,int) const'\n> Invalid dimension of point (expected: 'points.cols >= pt_dim'), where\n>     'points.cols' is 0\n> must be greater than or equal to\n>     'pt_dim' is 2\n"
+  }
+}

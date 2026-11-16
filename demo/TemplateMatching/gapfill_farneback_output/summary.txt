@@ -1,0 +1,3 @@
+Farnebäck: 27.7s
+光流 vs NCC-H 稠密偏差: med=1.11 RMS=18.30 P95=36.19 max=285.61 px@0.5x
+光流 vs 控制点实测位移: med=0.79 RMS=17.45 P95=20.23 px@0.5x

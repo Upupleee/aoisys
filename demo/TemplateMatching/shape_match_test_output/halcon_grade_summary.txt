@@ -1,0 +1,5 @@
+coarse 108.0s + fine 110.7s + LSQ 95.9s = 314.6s | NCC 4.1s
+角度: grid=+0.049 LSQ=+0.149 H=+0.229
+err(px) subpix-grid: median=17309.26 P95=17322.37 RMS=17309.45
+err(px) LSQ refined: median=14.60 P95=27.44 RMS=16.62
+err(px) NCC+MAGSAC : median=1.03 P95=2.25 RMS=1.63

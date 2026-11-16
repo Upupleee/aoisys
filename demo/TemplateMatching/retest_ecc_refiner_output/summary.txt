@@ -1,0 +1,4 @@
+控制点 1582
+H_ncc: ctrl med=0.360 RMS=2.463px | postwarp resid med=0.275px NCC med=0.8935
+ecc_1level: cc=0.8494 17.0s | ctrl med=0.376 RMS=2.471px | postwarp resid med=0.273px NCC med=0.8931
+ecc_pyr21: cc=0.8494 22.5s | ctrl med=0.376 RMS=2.471px | postwarp resid med=0.273px NCC med=0.8931

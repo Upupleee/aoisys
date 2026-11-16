@@ -1,0 +1,48 @@
+{
+  "scenario_A": [
+    {
+      "stage": "ncc(external)",
+      "s": 9.9,
+      "pass_inliers": [
+        25
+      ],
+      "reason": "pass1 内点率过低 → 先验失效",
+      "ok": false
+    },
+    {
+      "stage": "coarse_fm_prior",
+      "s": 4.3,
+      "ok": true
+    },
+    {
+      "stage": "ncc(coarse_fm)",
+      "s": 16.5,
+      "pass_inliers": [
+        1582,
+        1593,
+        1445
+      ],
+      "inlier_ratio": 0.967741935483871,
+      "resid_med": 0.6134479658196839,
+      "resid_p95": 10.948232500817255,
+      "zncc_med": 0.8843402862548828,
+      "ok": true
+    }
+  ],
+  "scenario_B": [
+    {
+      "stage": "ncc(history)",
+      "s": 15.5,
+      "pass_inliers": [
+        1583,
+        1593,
+        1445
+      ],
+      "inlier_ratio": 0.967741935483871,
+      "resid_med": 0.6109855053393085,
+      "resid_p95": 10.948918970023932,
+      "zncc_med": 0.8843402862548828,
+      "ok": true
+    }
+  ]
+}
